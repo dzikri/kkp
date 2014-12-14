@@ -2,18 +2,18 @@ Algoritma Program
 =================
 Tulisan ini ditulis untuk menambahkan bagian `Bab 3` Pada Algoritma Program. List penambahan Algoritma Program Bisa terangkum dalam :
 
-* Algoritma Menu Utama
-* Algoritma Form Generate Kunci
-* Algoritma Form Log Aktivitas
-* Algoritma Form Enkripsi
-* Algoritma Form Dekripsi
-* Algoritma Form User
-* Algoritma Proses Generate Kunci
-* Algoritma Proses Enkripsi
-* Algoritma Proses Dekripsi
+* Algoritma `Menu Utama`
+* Algoritma `Form Generate Kunci`
+* Algoritma `Form Log Aktivitas`
+* Algoritma `Form Enkripsi`
+* Algoritma `Form Dekripsi`
+* Algoritma `Form User`
+* Algoritma Proses `Generate Kunci`
+* Algoritma Proses `Enkripsi`
+* Algoritma Proses `Dekripsi`
 
 ##1. Algoritma Menu Utama
-Algoritma ini menjelaskan proses Menu Utama yang terdiri dari Generate Kunci, Aktivitas, Enkripsi, Dekripsi, User dan Bantuan. Apabila memilih Menu Enkripsi maka akan muncul Form Enkripsi. Begitu juga menu Dekripsi, jika dipilih akan menampilkan Menu Form Dekripsi. Apabila memilih menu Aktivitas maka akan tampil Form Aktivitas, Apabila memilih menu User maka akan tampil Form User. Namun, bila yang dipilih Bantuan maka akan tampil Form Bantuan.
+Algoritma ini menjelaskan proses Menu Utama yang terdiri dari `Generate Kunci`, `Aktivitas`, `Enkripsi`, `Dekripsi`, `User` dan `Bantuan`. Apabila memilih Menu Enkripsi maka akan muncul Form Enkripsi. Begitu juga menu Dekripsi, jika dipilih akan menampilkan Menu Form Dekripsi. Apabila memilih menu Aktivitas maka akan tampil Form Aktivitas, Apabila memilih menu User maka akan tampil Form User. Namun, bila yang dipilih Bantuan maka akan tampil Form Bantuan.
 
 ```
 1.  Start
@@ -162,7 +162,7 @@ Algoritma Form User ini menjelaskan bagaimana User menambahkan nilai identitas k
 
 ```
 
-##6. Algoritma Proses Generate Kunci
+##7. Algoritma Proses Generate Kunci
 Algoritma proses `generate kunci` ini menjelaskan cara kerja `Algoritma RSA` untuk melakukan proses pembuatan `kunci publik` dan `kunci private`.
 
 ```
@@ -183,7 +183,7 @@ Algoritma proses `generate kunci` ini menjelaskan cara kerja `Algoritma RSA` unt
 15.	Kunci Private 	= D dan N
 ```
 
-##7. Algoritma Proses Enkripsi
+##8. Algoritma Proses Enkripsi
 Algoritma proses enkripsi ini menjelaskan cara kerja Algoritma RSA untuk melakukan proses enkripsi dari file berformat xls dan doc.
 ```
 1.	Proses Enkripsi
@@ -216,7 +216,7 @@ Algoritma proses enkripsi ini menjelaskan cara kerja Algoritma RSA untuk melakuk
 28.	Close File
 ```
 
-##8. Algoritma Proses Dekripsi
+##9. Algoritma Proses Dekripsi
 Algoritma proses dekripsi ini menjelaskan bagaimana mengembalikan data yang sudah dienkripsi menjadi file asli dengan metode Algoritma RSA menggunakan kunci private. dimana untuk memulai proses dekripsi, user wajib menyertakan file kunci rahasia sebagai kunci private.
 ```
 1.	Proses Dekripsi
