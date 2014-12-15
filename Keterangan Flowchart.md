@@ -27,5 +27,7 @@ Flowchart User menggambarkan bagaimana user menambahkan identitas user lain seba
 proses lebih lanjut dari flowchar Log Aktivitas yang menggambarkan serangkaian proses detail bagaimana proses pencatatan log aktivitas dicatat dan disimpan kedalam file berformat HTML.
 
 ##1.9 Flowchart Sub proses Enkripsi
+flowchart enkripsi ini menjelaskan urutan-urutan yang lebih spesifik bagaimana data dari sebuah file akan dienkripsi dari plaintext menjadi chipertext dengan menyertakan kunci publik yang dimiliki oleh user cabang, yaitu nilai Modulo N dan Eksponen E. terdapat proses untuk pencatatan log aktivitas ketika proses enkripsi telah selesai. 
 
 ##1.10 Flowchart Sub Proses Dekripsi
+flowchart dekripsi ini menjelaskan urutan-urutan yang lebih spesifik bagaimana data dari sebuah file akan didekripsi dari plaintext menjadi chipertext dengan menyertakan kunci private yang dimiliki oleh user cabang, yaitu nilai Modulo N dan Eksponen E. terdapat proses untuk pencatatan log aktivitas ketika proses dekripsi telah selesai. 
