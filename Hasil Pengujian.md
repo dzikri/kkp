@@ -9,7 +9,7 @@ File yang dibatasi hanya berlaku file `Doc` dan `XLS` dengan kapasitas size `<= 
 
 >>> Tampilan Layar File doc
 
-![Alt text](http://yanwarrior.hol.es/kkp/1.JPG)
+![Alt text](http://yanwarrior.hol.es/kkp/2.JPG)
 
 |Nama File doc|Modulo N|Eksponen E|Ukuran File|Waktu Enkripsi  (Detik)|Ukuran Hasil Enkripsi|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -22,7 +22,7 @@ File yang dibatasi hanya berlaku file `Doc` dan `XLS` dengan kapasitas size `<= 
 
 >>> Tampilan Layar File Enkripsi doc
 
-![Alt text](http://yanwarrior.hol.es/kkp/2.JPG)
+![Alt text](http://yanwarrior.hol.es/kkp/1.JPG)
 
 |Nama File Enkripsi doc|Modulo N|Eksponen D|Ukuran File (KiB)|Waktu Enkripsi  (Detik)|Ukuran Hasil Dekripsi (KiB)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -37,7 +37,7 @@ File yang dibatasi hanya berlaku file `Doc` dan `XLS` dengan kapasitas size `<= 
 
 >>> Tampilan Layar File xls
 
-![Alt text](http://yanwarrior.hol.es/kkp/3.JPG)
+![Alt text](http://yanwarrior.hol.es/kkp/4.JPG)
 
 |Nama File xls|Modulo N|Eksponen E|Ukuran File (KiB)|Waktu Enkripsi  (Detik)|Ukuran Hasil Enkripsi (KiB)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -50,7 +50,7 @@ File yang dibatasi hanya berlaku file `Doc` dan `XLS` dengan kapasitas size `<= 
 
 >>> Tampilan Layar File Enkripsi xls
 
-![Alt text](http://yanwarrior.hol.es/kkp/4.JPG)
+![Alt text](http://yanwarrior.hol.es/kkp/3.JPG)
 
 |Nama File Enkripsi xls|Modulo N|Eksponen D|Ukuran File (KiB)|Waktu Enkripsi  (Detik)|Ukuran Hasil Enkripsi (KiB)|
 |:---:|:---:|:---:|:---:|:---:|:---:|
